@@ -203,6 +203,8 @@ Note:
 - Web Scraper
 - Danmarks statistik API
 - Lav din egen API!!!
+- QGIS plugin
+    - [Dokumentation](https://qgis.org/pyqgis/3.0/)
 @ulend
 
 Note:
@@ -211,6 +213,7 @@ Note:
     - Send mig en email, hvis det fejler!
 - Hent data fra DST API, bearbejd og gem i databasen
 - Jordskælv API
+- QGIS plugin
 
 +++
 
