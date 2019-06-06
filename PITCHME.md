@@ -199,12 +199,14 @@ Note:
 
 @ul
 - Geokoder
+- DAWA API
 - Windows scheduler checker
 - Web Scraper
 - Danmarks statistik API
 - Lav din egen API!!!
 - QGIS plugin
     - [Dokumentation](https://qgis.org/pyqgis/3.0/)
+    - Kig på kildekoden for et plugin!
 @ulend
 
 Note:
@@ -220,13 +222,14 @@ Note:
 ## Python "pakker"
 
 @ul
+- [Pydawa](https://github.com/danielarnason/pydawa)
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
 - [Requests](https://2.python-requests.org/en/master/)
-- [Pydawa](https://github.com/danielarnason/pydawa)
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [SQLAlchemy](https://docs.sqlalchemy.org/en/13/)
+- [Folium](https://python-visualization.github.io/folium/)
 - [Django](https://www.djangoproject.com/) eller [Flask](http://flask.pocoo.org/)
 - [Scikit-learn](https://scikit-learn.org/stable/), [Tensorflow](https://www.tensorflow.org/), [Keras](https://keras.io/)
-- [SQLAlchemy](https://docs.sqlalchemy.org/en/13/)
 - [WagTail](https://wagtail.io)
 @ulend
 
