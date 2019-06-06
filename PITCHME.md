@@ -265,4 +265,6 @@ Daníel Örn Árnason
 daniel.arnason@egekom.dk  
 7259 7233  
 @fab[linkedin](@danielarnason)  
-@fab[twitter](@danielarnason85)
+@fab[twitter](@danielarnason85)  
+@fab[slack](GIS og Geodata i kommunerne)  
+[Vær med i gruppen!](https://join.slack.com/t/gis-geodata-dk/shared_invite/enQtNjI3MjMxODY3NjE3LTk4NjU1ZjBiMjcyZGJkMTY0ZDgwODg0N2QwNDY1ZGRkYTQ5NzllY2RiNTlkMGQyNzAxNjZmYTU1N2M4OTFlYTE)
